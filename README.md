@@ -1,5 +1,4 @@
-# Backend MERN - Calendar
+# Backend Calendar
 
-Backend que creamos en mi curso de React: de cero a experto
+#Created for F.Herrera
 
-fernando-herrera.com
